@@ -8,7 +8,7 @@ release.
 Version 1.0.0
 -------------
 
-Release date to be decided.
+Released on October 28th 2015.
 
 Initial release as the interval binning package. Code refactored slightly from
 my old region binning script focussed on genomic regions. The original script

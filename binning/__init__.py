@@ -30,8 +30,8 @@ from __future__ import unicode_literals
 from itertools import dropwhile
 
 
-__version_info__ = ('1', '0', '0', 'dev')
-__date__ = '27 Oct 2015'
+__version_info__ = ('1', '0', '0')
+__date__ = '28 Oct 2015'
 
 
 __version__ = '.'.join(__version_info__)
