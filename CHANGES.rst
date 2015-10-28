@@ -5,6 +5,12 @@ Here you can see the full list of changes between each interval binning
 release.
 
 
+Version 1.0.1
+-------------
+
+Release date to be decided.
+
+
 Version 1.0.0
 -------------
 
