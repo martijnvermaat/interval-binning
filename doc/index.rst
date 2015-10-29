@@ -60,6 +60,10 @@ API documentation
 -----------------
 
 .. module:: binning
+
+All positions and ranges in this module are zero-based and open-ended,
+following standard Python indexing and slicing.
+
 .. autofunction:: assign_bin
 .. autofunction:: overlapping_bins
 .. autofunction:: containing_bins

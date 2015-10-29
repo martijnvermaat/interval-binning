@@ -15,6 +15,9 @@ Although in principle the method can be used for binning any kind of
 intervals, be aware that the largest position supported by this implementation
 is 2^29 (which covers the longest human chromosome).
 
+All positions and ranges in this module are zero-based and open-ended,
+following standard Python indexing and slicing.
+
 .. moduleauthor:: Martijn Vermaat <martijn@vermaat.name>
 
 .. Licensed under the MIT license, see the LICENSE.rst file.
