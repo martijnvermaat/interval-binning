@@ -11,6 +11,5 @@ python:
   - "nightly"
   - "pypy"
   - "pypy3"
-before_install: pip install pytest
 install: python setup.py install
 script: py.test --repeat-random 50
